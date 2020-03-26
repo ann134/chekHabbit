@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ChekHabbit</string>
+
+    <string name="enter_habit_name">Введите название привычки…</string>
+
+    <string name="add_habit">Добавить привычку</string>
+    <string name="add">Добавить</string>
+    <string name="mark_today">Отметить сегодня</string>
+
+    <string name="days">Дней</string>
+    <string name="day">День</string>
+
+    <string name="missed">пропущено: %d</string>
+
+    <string name="intro">Следите за своими привычками, отмечая их каждый день</string>
+
+</resources>
